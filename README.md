@@ -7,5 +7,5 @@ Final project
 # Link
 https://c-sum.github.io/New-Final/
 
-## Changes Document:
+## The Changes that I made:
 https://pennstateoffice365-my.sharepoint.com/:w:/g/personal/cvw5747_psu_edu/EWySjkYbvzBHqHp4zrPzn4oB4diH7a-xB1g-cuGrFAEKqQ?e=GYUqhi
