@@ -2,7 +2,7 @@
 created on 4/18/2023
 
 # Assignment name
-Final project
+Cat lovers website
 
 # Link
 https://c-sum.github.io/New-Final/
